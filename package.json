@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "Challenge 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anne Garcia",
+  "license": "ISC"
+}
